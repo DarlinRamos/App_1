@@ -26,7 +26,7 @@ namespace programa_1
             Console.WriteLine("El resultado de la suma es: " + s);
             Console.WriteLine("El resultado de la resta e: " + r);
             Console.WriteLine("El resultado de la multiplicacion es: " + m);
-            Console.WriteLine("El resultado de la divion es: " + di);
+            Console.WriteLine("El resultado de la division es: " + di);
             Console.ReadKey();
         }
     }
