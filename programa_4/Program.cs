@@ -7,6 +7,7 @@ namespace programa_4
         static void Main(string[] args)
         {
             //Suma, resta, multiplicacion y division
+
             int n1, n2, s, r, m;
             float di;
             string va;
